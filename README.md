@@ -4,17 +4,25 @@ Day 10 of my daily coding challenge focuses on finding the largest element in an
 # Features
 
 Finds the largest element in a numeric array
+
 Uses a separate function for logic
+
 Efficient single-pass comparison
+
 Clean and readable implementation
 
 # Concepts Used
 
 Arrays
+
 Functions
+
 for loop
+
 Conditional statements
 
 # Technology
+
 Language: C++
+
 Library: <iostream>

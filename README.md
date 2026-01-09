@@ -25,4 +25,3 @@ Conditional statements
 
 Language: C++
 
-Library: <iostream>
